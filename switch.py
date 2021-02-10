@@ -1,5 +1,5 @@
+#This code is very simple
 from machine import Pin
-
 
 switchpin = Pin(0,Pin.IN) #if you use GP0
 led = Pin(25, Pin.OUT)#if you use LED in pico
