@@ -13,7 +13,3 @@ while True:
     else:
         led.value(0)  # Low
         print("No")
-
-#yes
-#No
-#soso
