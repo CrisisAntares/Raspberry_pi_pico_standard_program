@@ -2,6 +2,7 @@
 from machine import Pin
 
 switchpin = Pin(0,Pin.IN) #if you use GP0
+#This code setups switch pin
 led = Pin(25, Pin.OUT)#if you use LED in pico
 #This code setups LED(pin)
 
