@@ -1,4 +1,4 @@
-# Raspberry_pi_pico_base_program
+# Raspberry_pi_pico_standard_program
 Codes are able to used in Raspberry Pi Pico. 
 
 Switch.py needs pico, switch, resistor(3.3KΩ) and track.
@@ -15,3 +15,4 @@ GND > resistor > switch
 GP0 > switch
   
 Please, see attached image for details about wires.
+
